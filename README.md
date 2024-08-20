@@ -1,4 +1,4 @@
-First, install the Equity.csv file into the same directory where your Python is installed
+fffFirst, install the Equity.csv file into the same directory where your Python is installed
 
 So the code can extract data of NSE from this CSV file
 
